@@ -42,8 +42,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#Screenshots">Screenshots</a></li>
   </ol>
 </details>
 
