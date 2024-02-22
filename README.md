@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/YunusEmreAlps/Touch/tree/master/touch">
+  <a href="https://github.com/momen-elmady/Step-Change.git">
     <img src="assets/images/Touch_Logo.png" alt="Logo" width="400">
   </a>
 
@@ -10,11 +10,11 @@
   <p align="center">
     Touch Other Lives With Your Steps
     <br />
-    <a href="https://github.com/YunusEmreAlps/Touch/tree/master/touch">Download</a>
+    <a href="https://github.com/momen-elmady/Step-Change.git">Download</a>
     ·
-    <a href="https://github.com/YunusEmreAlps/Touch/issues">Report Bug</a>
+    <a href="https://github.com/momen-elmady/Step-Change/issues">Report Bug</a>
     ·
-    <a href="https://github.com/YunusEmreAlps/Touch/issues">Request Feature</a>
+    <a href="https://github.com/momen-elmady/Step-Change/issues">Request Feature</a>
   </p>
 </p>
 
@@ -96,7 +96,7 @@ To run any Android application built with Flutter you need to configure the envi
 - Clone this repo to your local machine using:
 
 ```
-git clone https://github.com/YunusEmreAlps/Touch.git
+git clone https://github.com/momen-elmady/Step-Change.git
 ```
 
 ### Setup
@@ -116,7 +116,7 @@ flutter run
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/YunusEmreAlps/Touch/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/momen-elmady/Step-Change/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -137,34 +137,3 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-<!-- CONTACT -->
-## 📌 Contact
-
-- Linkedin at [Yunus Emre Alpu](https://www.linkedin.com/in/yunus-emre-alpu-5b1496151/)
-
-<!-- SCREENSHOTS -->
-## Screenshots
-
-Splash Screen               |  Welcome Page               | Welcome Page               |  Welcome Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/1.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/2.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/3.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/4.jpg?raw=true)|
-
-Login Page              |  Forgot Password Page               | OTP Page               |  Signup Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/5.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/6.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/7.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/8.jpg?raw=true)|
-
-Login Success Page              |  Home Page               | Home Page               |  Contact Part
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/9.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/10.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/11.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/12.jpg?raw=true)|
-
-About Us              |  Contact Details              | Suggestions               |  Donations Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/13.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/14.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/15.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/16.jpg?raw=true)|
-
-Donations Page             |  Leaderboard Local        | Leaderboard Global               |  Task Page 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/17.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/18.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/19.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/20.jpg?raw=true)|
-
-Total Balance           |  Health           | Badges               |  Settings
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/21.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/22.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/23.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/24.jpg?raw=true)|
